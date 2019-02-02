@@ -1,0 +1,5 @@
+= KiCad Footprints
+
+== Misc Modules
+* XL6009 - DC-DC Step-Up (Boost) Voltage converter
+* MP1584 - DC-DC Step-Down (Bucket) Voltage converter
